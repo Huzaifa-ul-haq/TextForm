@@ -1,13 +1,14 @@
 
-import { TextComponent } from '../../../FORM/my-app/src/component/Textform/textForm'
+
 import './App.css'
+import { TextComponent } from './component/Text'
 
 function App() {
 
 
   return (
     <>
-    <TextComponent />
+   <TextComponent/>
     </>
   )
 }
